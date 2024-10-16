@@ -1,0 +1,14 @@
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\bin\Debug\net8.0\ServerSide.exe
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\bin\Debug\net8.0\ServerSide.deps.json
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\bin\Debug\net8.0\ServerSide.runtimeconfig.json
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\bin\Debug\net8.0\ServerSide.dll
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\bin\Debug\net8.0\ServerSide.pdb
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\obj\Debug\net8.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\obj\Debug\net8.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\obj\Debug\net8.0\ServerSide.AssemblyInfo.cs
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\obj\Debug\net8.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\obj\Debug\net8.0\ServerSide.dll
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\obj\Debug\net8.0\refint\ServerSide.dll
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\obj\Debug\net8.0\ServerSide.pdb
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\obj\Debug\net8.0\ServerSide.genruntimeconfig.cache
+C:\Users\amiro\source\repos\UpdFileSender\ServerSide\obj\Debug\net8.0\ref\ServerSide.dll

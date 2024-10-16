@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\TcpClientServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE88005-9069-44E5-9D0F-255D0B9830AF}|TcpClientSide\\TcpClientSide.csproj|c:\\users\\amiro\\desktop\\network \u0026 system programming\\network\\tcpclientserver\\tcpclientside\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE88005-9069-44E5-9D0F-255D0B9830AF}|TcpClientSide\\TcpClientSide.csproj|solutionrelative:tcpclientside\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A111D8F-F44C-4604-993A-0114CEF7E3B8}|TcpClientServer\\TcpServerSide.csproj|c:\\users\\amiro\\desktop\\network \u0026 system programming\\network\\tcpclientserver\\tcpclientserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A111D8F-F44C-4604-993A-0114CEF7E3B8}|TcpClientServer\\TcpServerSide.csproj|solutionrelative:tcpclientserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\TcpClientServer\\TcpClientServer\\Program.cs",
+              "RelativeDocumentMoniker": "TcpClientServer\\Program.cs",
+              "ToolTip": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\TcpClientServer\\TcpClientServer\\Program.cs",
+              "RelativeToolTip": "TcpClientServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:38:32.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\TcpClientServer\\TcpClientSide\\Program.cs",
+              "RelativeDocumentMoniker": "TcpClientSide\\Program.cs",
+              "ToolTip": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\TcpClientServer\\TcpClientSide\\Program.cs",
+              "RelativeToolTip": "TcpClientSide\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:34:33.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
