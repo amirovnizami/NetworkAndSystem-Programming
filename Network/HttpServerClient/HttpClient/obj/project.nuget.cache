@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dAodq8nkdcU=",
+  "dgSpecHash": "jLGjwLYyOCs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\Network\\Solution1\\HttpClient\\HttpClient.csproj",
+  "projectFilePath": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\NetworkAndSystem-Programming\\Network\\HttpServerClient\\HttpClient\\HttpClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amiro\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\amiro\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

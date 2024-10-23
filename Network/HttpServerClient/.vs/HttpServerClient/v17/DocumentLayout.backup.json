@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\HttpServerClient\\",
+  "WorkspaceRootPath": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\NetworkAndSystem-Programming\\Network\\HttpServerClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4A1115E-F8F3-4EE3-BCC4-A35C7A994672}|HttpClient\\HttpClient.csproj|c:\\users\\amiro\\desktop\\network \u0026 system programming\\network\\httpserverclient\\httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4A1115E-F8F3-4EE3-BCC4-A35C7A994672}|HttpClient\\HttpClient.csproj|c:\\users\\amiro\\desktop\\network \u0026 system programming\\networkandsystem-programming\\network\\httpserverclient\\httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4A1115E-F8F3-4EE3-BCC4-A35C7A994672}|HttpClient\\HttpClient.csproj|solutionrelative:httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD6F1F55-EA15-4CA4-9589-269AD15044DD}|HttpServer\\HttpServer.csproj|c:\\users\\amiro\\desktop\\network \u0026 system programming\\network\\httpserverclient\\httpserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD6F1F55-EA15-4CA4-9589-269AD15044DD}|HttpServer\\HttpServer.csproj|c:\\users\\amiro\\desktop\\network \u0026 system programming\\networkandsystem-programming\\network\\httpserverclient\\httpserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD6F1F55-EA15-4CA4-9589-269AD15044DD}|HttpServer\\HttpServer.csproj|solutionrelative:httpserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD6F1F55-EA15-4CA4-9589-269AD15044DD}|HttpServer\\HttpServer.csproj|c:\\users\\amiro\\desktop\\network \u0026 system programming\\network\\httpserverclient\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD6F1F55-EA15-4CA4-9589-269AD15044DD}|HttpServer\\HttpServer.csproj|c:\\users\\amiro\\desktop\\network \u0026 system programming\\networkandsystem-programming\\network\\httpserverclient\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD6F1F55-EA15-4CA4-9589-269AD15044DD}|HttpServer\\HttpServer.csproj|solutionrelative:httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\HttpServerClient\\HttpServer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\NetworkAndSystem-Programming\\Network\\HttpServerClient\\HttpServer\\Program.cs",
               "RelativeDocumentMoniker": "HttpServer\\Program.cs",
-              "ToolTip": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\HttpServerClient\\HttpServer\\Program.cs",
+              "ToolTip": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\NetworkAndSystem-Programming\\Network\\HttpServerClient\\HttpServer\\Program.cs",
               "RelativeToolTip": "HttpServer\\Program.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAYwDsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\HttpServerClient\\HttpServer\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\NetworkAndSystem-Programming\\Network\\HttpServerClient\\HttpServer\\Models\\User.cs",
               "RelativeDocumentMoniker": "HttpServer\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\HttpServerClient\\HttpServer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\NetworkAndSystem-Programming\\Network\\HttpServerClient\\HttpServer\\Models\\User.cs",
               "RelativeToolTip": "HttpServer\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,13 +53,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\HttpServerClient\\HttpClient\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\NetworkAndSystem-Programming\\Network\\HttpServerClient\\HttpClient\\Program.cs",
               "RelativeDocumentMoniker": "HttpClient\\Program.cs",
-              "ToolTip": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\Network\\HttpServerClient\\HttpClient\\Program.cs",
+              "ToolTip": "C:\\Users\\amiro\\Desktop\\Network \u0026 System Programming\\NetworkAndSystem-Programming\\Network\\HttpServerClient\\HttpClient\\Program.cs",
               "RelativeToolTip": "HttpClient\\Program.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:40:13.12Z"
+              "WhenOpened": "2024-10-15T06:40:13.12Z",
+              "EditorCaption": ""
             }
           ]
         }

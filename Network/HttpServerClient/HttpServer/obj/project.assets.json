@@ -4046,11 +4046,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\Network\\Solution1\\HttpServer\\HttpServer.csproj",
+      "projectUniqueName": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\NetworkAndSystem-Programming\\Network\\HttpServerClient\\HttpServer\\HttpServer.csproj",
       "projectName": "HttpServer",
-      "projectPath": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\Network\\Solution1\\HttpServer\\HttpServer.csproj",
+      "projectPath": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\NetworkAndSystem-Programming\\Network\\HttpServerClient\\HttpServer\\HttpServer.csproj",
       "packagesPath": "C:\\Users\\amiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\Network\\Solution1\\HttpServer\\obj\\",
+      "outputPath": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\NetworkAndSystem-Programming\\Network\\HttpServerClient\\HttpServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
