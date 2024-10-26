@@ -12,3 +12,18 @@ C:\Users\amiro\source\repos\TCPx0Game\ServerSide\obj\Debug\net8.0\refint\ServerS
 C:\Users\amiro\source\repos\TCPx0Game\ServerSide\obj\Debug\net8.0\ServerSide.pdb
 C:\Users\amiro\source\repos\TCPx0Game\ServerSide\obj\Debug\net8.0\ServerSide.genruntimeconfig.cache
 C:\Users\amiro\source\repos\TCPx0Game\ServerSide\obj\Debug\net8.0\ref\ServerSide.dll
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\bin\Debug\net8.0\ServerSide.exe
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\bin\Debug\net8.0\ServerSide.deps.json
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\bin\Debug\net8.0\ServerSide.runtimeconfig.json
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\bin\Debug\net8.0\ServerSide.dll
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\bin\Debug\net8.0\ServerSide.pdb
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\obj\Debug\net8.0\ServerSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\obj\Debug\net8.0\ServerSide.AssemblyInfoInputs.cache
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\obj\Debug\net8.0\ServerSide.AssemblyInfo.cs
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\obj\Debug\net8.0\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\obj\Debug\net8.0\ServerSide.sourcelink.json
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\obj\Debug\net8.0\ServerSide.dll
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\obj\Debug\net8.0\refint\ServerSide.dll
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\obj\Debug\net8.0\ServerSide.pdb
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\obj\Debug\net8.0\ServerSide.genruntimeconfig.cache
+C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ServerSide\obj\Debug\net8.0\ref\ServerSide.dll

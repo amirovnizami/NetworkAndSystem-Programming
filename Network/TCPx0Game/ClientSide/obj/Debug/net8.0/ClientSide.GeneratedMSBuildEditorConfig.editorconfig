@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClientSide
-build_property.ProjectDir = C:\Users\amiro\source\repos\TCPx0Game\ClientSide\
+build_property.ProjectDir = C:\Users\amiro\Desktop\Network & System Programming\NetworkAndSystem-Programming\Network\TCPx0Game\ClientSide\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

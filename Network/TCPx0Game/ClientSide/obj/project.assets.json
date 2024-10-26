@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amiro\\source\\repos\\TCPx0Game\\ClientSide\\ClientSide.csproj",
+      "projectUniqueName": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\NetworkAndSystem-Programming\\Network\\TCPx0Game\\ClientSide\\ClientSide.csproj",
       "projectName": "ClientSide",
-      "projectPath": "C:\\Users\\amiro\\source\\repos\\TCPx0Game\\ClientSide\\ClientSide.csproj",
+      "projectPath": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\NetworkAndSystem-Programming\\Network\\TCPx0Game\\ClientSide\\ClientSide.csproj",
       "packagesPath": "C:\\Users\\amiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amiro\\source\\repos\\TCPx0Game\\ClientSide\\obj\\",
+      "outputPath": "C:\\Users\\amiro\\Desktop\\Network & System Programming\\NetworkAndSystem-Programming\\Network\\TCPx0Game\\ClientSide\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
