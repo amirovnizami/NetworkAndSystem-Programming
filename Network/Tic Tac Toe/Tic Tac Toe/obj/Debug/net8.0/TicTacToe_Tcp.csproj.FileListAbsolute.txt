@@ -1,0 +1,14 @@
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\TicTacToe_Tcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\TicTacToe_Tcp.AssemblyInfoInputs.cache
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\TicTacToe_Tcp.AssemblyInfo.cs
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\TicTacToe_Tcp.csproj.CoreCompileInputs.cache
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\TicTacToe_Tcp.exe
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\TicTacToe_Tcp.deps.json
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\TicTacToe_Tcp.runtimeconfig.json
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\TicTacToe_Tcp.dll
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net8.0\TicTacToe_Tcp.pdb
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\TicTacToe_Tcp.dll
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\refint\TicTacToe_Tcp.dll
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\TicTacToe_Tcp.pdb
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\TicTacToe_Tcp.genruntimeconfig.cache
+C:\Users\amiro\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net8.0\ref\TicTacToe_Tcp.dll
